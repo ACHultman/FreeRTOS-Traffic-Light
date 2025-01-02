@@ -1,0 +1,127 @@
+Task 1
+Released:	0
+Completed:	95
+
+Task 2
+Released:	0
+Completed:	245
+
+Task 3
+Released:	0
+Completed:	495
+
+Task 1
+Released:	500
+Completed:	595
+
+Task 2
+Released:	500
+Completed:	745
+
+Task 3
+Released:	750
+Completed:	1000
+
+Task 1
+Released:	1000
+Completed:	1095
+
+Task 2
+Released:	1000
+Completed:	1245
+
+      	   Monitor Task: 		  1500
+
+Active Tasks:
+	Size: 3
+
+Completed Tasks:
+	Size: 8
+
+Overdue Tasks:
+	Size: 0
+
+
+Task 1
+Released:	1500
+Completed:	1597
+
+Task 2
+Released:	1501
+Completed:	1747
+
+Task 3
+Released:	1500
+Completed:	1997
+
+Task 1
+Released:	2000
+Completed:	2095
+
+Task 2
+Released:	2000
+Completed:	2245
+
+Task 3
+Released:	2250
+Completed:	2500
+
+Task 1
+Released:	2500
+Completed:	2595
+
+Task 2
+Released:	2500
+Completed:	2745
+
+      	   Monitor Task: 		  3002
+
+Active Tasks:
+	Size: 3
+
+Completed Tasks:
+	Size: 16
+
+Overdue Tasks:
+	Size: 0
+
+
+Task 1
+Released:	3000
+Completed:	3097
+
+Task 2
+Released:	3000
+Completed:	3247
+
+Task 3
+Released:	3000
+Completed:	3497
+
+Task 1
+Released:	3500
+Completed:	3595
+
+Task 2
+Released:	3500
+Completed:	3745
+
+Task 3
+Released:	3750
+Completed:	4000
+
+T
+Task 2
+Released:	4000
+Completed:	4245
+
+      	   Monitor Task: 		  4504
+
+Active Tasks:
+	Size: 3
+
+Completed Tasks:
+	Size: 24
+
+Overdue Tasks:
+	Size: 0
